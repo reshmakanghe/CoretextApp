@@ -28,4 +28,11 @@ Bookmarks:
 
 **Screenshots** -
 
-![]
+![Image1](ss/coreText1.png)
+![Image2](ss/coreText2.png)
+![Image3](ss/coreText3.png)
+![Image4](ss/coreText4.png)
+![Image5](ss/coreText5.png)
+![Image6](ss/coreText6.png)
+![Image7](ss/coreText7.png)
+
