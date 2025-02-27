@@ -1,0 +1,11 @@
+{
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
